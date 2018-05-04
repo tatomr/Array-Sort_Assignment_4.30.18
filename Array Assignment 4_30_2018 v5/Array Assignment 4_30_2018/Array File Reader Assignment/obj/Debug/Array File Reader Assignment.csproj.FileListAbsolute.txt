@@ -1,0 +1,50 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array_File_Reader_Assignment.Form1.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array_File_Reader_Assignment.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.pdb
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.exe.config
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.exe
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.pdb
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array_File_Reader_Assignment.Form1.resources
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array_File_Reader_Assignment.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.exe
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.pdb
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v3\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.exe.config
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v3\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.exe
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v3\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.pdb
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v3\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v3\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array_File_Reader_Assignment.Form1.resources
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v3\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array_File_Reader_Assignment.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v3\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v3\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v3\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.exe
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v3\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.pdb
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v4\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v4\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array_File_Reader_Assignment.Form1.resources
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v4\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array_File_Reader_Assignment.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v4\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v4\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v4\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.exe
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v4\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.pdb
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v4\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.exe.config
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v4\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.exe
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018v4\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.pdb
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018 v5\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.exe.config
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018 v5\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.exe
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018 v5\Array Assignment 4_30_2018\Array File Reader Assignment\bin\Debug\Array File Reader Assignment.pdb
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018 v5\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018 v5\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array_File_Reader_Assignment.Form1.resources
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018 v5\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array_File_Reader_Assignment.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018 v5\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018 v5\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018 v5\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.exe
+C:\Users\Cyberadmin\Desktop\Array Assignment 4_30_2018 v5\Array Assignment 4_30_2018\Array File Reader Assignment\obj\Debug\Array File Reader Assignment.pdb
