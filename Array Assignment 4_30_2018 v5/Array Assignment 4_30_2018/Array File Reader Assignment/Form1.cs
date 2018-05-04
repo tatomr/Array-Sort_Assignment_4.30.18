@@ -15,14 +15,16 @@ namespace Array_File_Reader_Assignment
     public partial class Form1 : Form
     {
 
-        const string pathFinder = "Names.csv";
-
+        
+        //Create the iArray to hold all of he names 
         const int SIZE = 5000;
         string[] iArray = new string[SIZE];
+        
         //Implements a TextReader that reads characters from a byte stream in a particular encoding.
+        const string pathFinder = "Names.csv";
         StreamReader source = File.OpenText("Names.csv");
 
-
+        //  Int variable for the counter
         int counter;
 
         public Form1()
@@ -32,6 +34,7 @@ namespace Array_File_Reader_Assignment
 
 
         private void Form1_Load(object sender, EventArgs e)
+
         {   //Gets a DateTime object that is set to the current date and time on this computer, expressed as the local time.
             DateTime start = DateTime.Now;
             DateTime Finish;
@@ -41,22 +44,24 @@ namespace Array_File_Reader_Assignment
             try
             {
 
-                // Increment my i variable
+                // Set the increment counter to 0
                 for (counter = 0; counter < 5000; counter++)
                 {
-                    // Adds each line that my stream reader reads
-                    // into the array instance of i
+                    // Adds each line from stream reader source to each element in the array.
                     iArray[counter] = source.ReadLine();
-                    // adds the instance of i into the list box
+                    // Displays the instance of i into the list box.
                     listBox1.Items.Add(iArray[counter]);
-
                 }
+
+                //Gets the stop time of the counter. 
                 Finish = DateTime.Now;
                 Time = Finish - start;
 
+                //The length of time the procedure took to execute and displayed to listbox1
                 label1.Text = listBox1.Items.Count.ToString() + " " + "Results Loaded in" + " " + (Time.TotalSeconds.ToString()) + " " + "seconds";
 
             }
+            //Error handeling of code
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
@@ -67,7 +72,7 @@ namespace Array_File_Reader_Assignment
         {
             try
             {
-
+            //Variables for the following for loops.
             int minIndex;
             string minValue;
 
@@ -80,11 +85,13 @@ namespace Array_File_Reader_Assignment
                 {
                     if (string.Compare(minValue, iArray[index], true) == 1)
                     {
-                        minValue = iArray[index];
-                        minIndex = index;
+                            ////minIndex functions is the smallest index, in a continuously-shrinking set of names, starting with
+                            //the entire list, and lessening by 1 on each iteration. minValue is the value located at said index.
+                            minValue = iArray[index];
+                            minIndex = index;
                     }
                 }
-
+                //Calls the Swap Funcion and pass two paramaters into the method.
                 Swap(ref iArray[minIndex], ref iArray[startScan]);
 
             }
